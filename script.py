@@ -3,25 +3,24 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+හායි මම තමයි  Auto Filter Bot !! :D
 
-This is Version 2 of Auto Filter Bot
+This is Version 1.0 of Auto Filter Bot
 
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
+මට පුලුවන් ඔයාගෙ එකේ තියෙන files වල button link අරන් දෙන්න!
 
 For more click <i>help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>කොහොමද මාව පාවිච්චි කරන්නෙ???</b>
 
 <i>
-* Add bot to your group with admin rights.
+* මුලින්ම මාව ඔයාගෙ group එකේ admin කෙනෙක් කරන්න.
 
-* Add bot to channels which you want to link with <b>all admin rights</b>!
+* මාව ඔයාගෙ channels එකෙත් admin කෙනෙක් කරන්න.<b>admin rights ඔක්කොමත් එක්කම.</b>!
 </i>
 
+*ඉතුරු ටික ඉංග්‍රීසියෙන්ම කියන්නම්😁
 
 <b>Bot Commands - Works in Group only</b>
 (You need to be a Auth User in order to use these commands)
@@ -30,7 +29,7 @@ For more click <i>help</i></b>"""
 or
 * <code>/add @channelusername</code> - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+<i>NOTE : You can get your channel ID from @Get_Channel_User_Telegram_ID_Bot </i>
 
 
 * <code>/del channelid</code>  -  Delinks channel from group
@@ -56,14 +55,14 @@ Bot will automatically search for your files and give links to that!
 <b>© @TroJanzHEX</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V1</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @akalankanime
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>Python3.10</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Tutorial Video :</b> <a href=''>පස්සෙ දාන්නම්</a> 
 
 """
